@@ -17,7 +17,7 @@ function App() {
       address: 'Prek Eng District, Chbar Ampov Commune, Phnom Penh City',
       website: 'https://v0-personal-portfolio-website-vuzr.vercel.app/',
       linkedin: 'linkedin.com/in/soeun-sovannarith-116858291',
-      github: 'https://github.com/oeunchhinh-ux/cv_maker'
+      github: 'https://github.com/oeunchhinh-ux'
     },
     summary: 'Backend Developer specializing in Java and the Spring framework, with proven experience developing robust RESTful and SOAP APIs for internal and external usage. Strong foundation in Object-Oriented Programming (OOP) and comprehensive knowledge of SQL, RDBMS, and database design. Adept at cross-functional collaboration to solve complex problems, maintain backend applications, and assist in creating system designs and functional specifications for new projects. Skilled in supporting seamless system integrations with third-party partners.',
     experience: [
