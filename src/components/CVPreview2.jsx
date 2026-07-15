@@ -77,7 +77,7 @@ const CVPreview2 = forwardRef(({ data }, ref) => {
                         backgroundColor: '#e6e6ea'
                     }}>
                         <img
-                            src={`${import.meta.env.BASE_URL}me.jpg`}
+                            src={`${import.meta.env.BASE_URL}me.JPG`}
                             alt="Profile"
                             style={{
                                 width: '100%',
