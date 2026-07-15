@@ -76,7 +76,7 @@ function App() {
       { id: 1, name: 'AWS Certified Developer', link: 'https://aws.amazon.com' }
     ],
     projects: [
-      { id: 1, name: 'Portfolio Website', link: 'https://portfolio.rith.codes' }
+      { id: 1, name: 'Portfolio Website', link: 'https://v0-personal-portfolio-website-vuzr.vercel.app/' }
     ],
     skills: [
       'Backend Development: Java, Spring Framework (Spring Boot), Object-Oriented Programming (OOP), System Design',
